@@ -3,8 +3,8 @@
 $transaction = $_GET['transaction'];
 
 // Your Telegram Bot API token and chat ID
-$telegramBotToken = '6885064915:AAFelplb3aqbKDCZY56-TWYDaqpXfLVobDQ';
-$telegramChatId = '1290697237';
+$telegramBotToken = '7372125963:AAHRIi7xPoHTPtp9HedOUI7paveKwcEhdVc';
+$telegramChatId = '1439771387';
 
 // Connect to your MySQL database
 $servername = "localhost";
